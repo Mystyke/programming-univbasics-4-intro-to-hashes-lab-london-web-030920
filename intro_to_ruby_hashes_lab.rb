@@ -36,6 +36,6 @@ def update_counting_hash(hash, key)
   if hash include?(key)== True
     hash[key] +=1
   end
-  if hash include?(key)==FALSE
+  if hash include?(key)== 
   
 end
